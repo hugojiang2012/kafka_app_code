@@ -1,0 +1,7 @@
+kafkaHighConsumer\JavaKafkaConsumerHighAPITest.class
+kafkaSimpleConsumer\JavaKafkaSimpleConsumerAPITest.class
+kafkaHighConsumer\JavaKafkaConsumerHighAPI.class
+kafkaHighConsumer\JavaKafkaConsumerHighAPI$ConsumerKafkaStreamProcesser.class
+kafkaSimpleConsumer\KafkaBrokerInfo.class
+kafkaSimpleConsumer\JavaKafkaSimpleConsumerAPI.class
+kafkaSimpleConsumer\KafkaTopicPartitionInfo.class
